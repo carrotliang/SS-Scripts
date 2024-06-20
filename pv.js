@@ -24,7 +24,7 @@ objc =
       {
         "quantity" : "1",
         "purchase_date_ms" : "1670113082000",
-        "expires_date" : "2022-12-11 00:18:02 Etc\/GMT",
+        "expires_date" : "2099-12-11 00:18:02 Etc\/GMT",
         "expires_date_pst" : "2099-12-10 16:18:02 America\/Los_Angeles",
         "is_in_intro_offer_period" : "false",
         "transaction_id" : "80001251761347",
@@ -36,7 +36,7 @@ objc =
         "in_app_ownership_type" : "PURCHASED",
         "original_purchase_date_ms" : "1670113083000",
         "web_order_line_item_id" : "80000541166286",
-        "expires_date_ms" : "1670717882000",
+        "expires_date_ms" : "4100602682000",
         "purchase_date_pst" : "2022-12-03 16:18:02 America\/Los_Angeles",
         "original_purchase_date" : "2022-12-04 00:18:03 Etc\/GMT"
       }
@@ -82,7 +82,7 @@ objc =
       "subscription_group_identifier" : "20523141",
       "original_purchase_date_ms" : "1670113083000",
       "web_order_line_item_id" : "80000541166286",
-      "expires_date_ms" : "1670717882000",
+      "expires_date_ms" : "4100602682000",
       "purchase_date_pst" : "2022-12-03 16:18:02 America\/Los_Angeles",
       "original_purchase_date" : "2022-12-04 00:18:03 Etc\/GMT"
     }
