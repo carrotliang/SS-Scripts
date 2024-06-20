@@ -1,13 +1,3 @@
-[rewrite_local]
-
-^https:\/\/peakvisor\.com\/peakvisor\/v1\/purchase\/verifyReceipt url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/routes.js
-
-[mitm] 
-
-hostname = peakvisor.com
-
-
-*******************************/
 
 var objc = JSON.parse($response.body);
 
